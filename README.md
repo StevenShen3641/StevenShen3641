@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Profile Status
+
 ![StevenShen3641's GitHub stats](https://github-readme-stats.vercel.app/api?username=StevenShen3641&show_icons=true&theme=radical)
+
+### Programming Skills
 
 - **Lots of time with**
 
@@ -36,4 +40,12 @@ Here are some ideas to get you started:
       <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
   </div>
 
-  
+### Personal Interests
+
+- **Amateur electronic music composer.** Proficient with several synths and effectors. Fond of listening and making different genres of music.
+
+  - Artist name: Crystal Sand (Originated from Owl City's song "Early Birdie")
+  - Favorite artists: Owl City, Chicane, Ryan Farish, Vexento, Novo Amor, Taylor Swift, etc.
+
+  - Mastered genres: Melodic / Traditional Progressive House. Familiar genres: Chillout, Hands Up.
+  - Released labels: Soluna Music, Summer Melody Records, Progressive Dreams, Sunset Horizon, etc.
