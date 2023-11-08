@@ -32,7 +32,7 @@ Here are some ideas to get you started:
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"  title="Matlab" alt="Matlab" width="50" height="50"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
-      <iconify-icon icon="vscode-icons:file-type-stata"title="STATA" alt="STATA" width="50" height="50"/></iconify-icon>
+      <img src="https://api.iconify.design/vscode-icons/file-type-stata.svg"  title="STATA" alt="STATA" width="50" height="50"/>&nbsp;
   </div>
 
 - **Familiar with**
