@@ -47,9 +47,6 @@ Here are some ideas to get you started:
 
   - Artist name: Crystal Sand (Originated from Owl City's song "Early Birdie")
   - Favorite artists: Owl City, Chicane, Ryan Farish, Vexento, Novo Amor, Taylor Swift, etc.
-  
-  - Work on: Melodic / Traditional Progressive House. Familiar genres: Chillout, Hands Up.
-  - Released labels: Soluna Music, Summer Melody Records, Progressive Dreams, Sunset Horizon, etc.
   - Work on: Melodic / Traditional Progressive House. Familiar genres: Chillout, Hands Up.
   - Released labels: Soluna Music, Summer Melody Records, Progressive Dreams, Sunset Horizon, etc.
   
