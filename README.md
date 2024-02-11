@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
   <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg"  title="PyTorch" alt="PyTorch" width="50" height="50"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg"  title="PyTorch" alt="PyTorch" width="50" height="50"/>&nbsp;
   </div>
 
 ## Personal Interests
