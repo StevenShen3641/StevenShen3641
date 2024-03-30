@@ -35,7 +35,7 @@ Here are some ideas to get you started:
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="50" height="50"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="50" height="50"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" eidth="50" height="50"/>&nbsp;
-      <img src="https://api.iconify.design/vscode-icons/file-type-stata.svg"  title="STATA" alt="STATA" width="50" height="50"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/stata/stata-original-wordmark.svg"  title="STATA" alt="STATA" width="50" height="50"/>&nbsp;
   </div>
 
 - **Familiar with**
